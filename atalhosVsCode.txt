@@ -1,0 +1,6 @@
+Atalhos VSCode
+ctrl+x apaga uma linha 
+ctrl+/ comenta as linhas e código selecionadasd
+alt + shift + seta para baixo duplica as linhas selecionadas ou a linha em que o indicador de digitação estiver no momento
+ctrl + alt + n executa o código através do plugin codeRunner
+shift + alt + f formata as linhas selecionadas
